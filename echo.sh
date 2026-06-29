@@ -10,4 +10,4 @@ cd /
 
 ls -l
 
-# esta foi a minha listagem de diretorios da raiz 
+echo "esta foi a minha listagem de diretorios da raiz"
