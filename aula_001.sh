@@ -2,8 +2,8 @@
 #------------------------
 #    Author: Vitor de Paula Santos
 #    Git: 
-#    CreateDate: 16/06/2026
-#    UpdateDate: 16/06/2026
+#    CreatedDate: 16/06/2026
+#    UpdatedDate: 16/06/2026
 #------------------------
 
 FRUITLIST=(orange strawberry lemon pinneaple)
